@@ -2,6 +2,6 @@
 
 - 👋 Hi, I’m @danydifilippo
 - 👀 I’m interested in coding, design web...
-- 🌱 I’m currently studying full stack @ epicode school 
+- 🌱 I’m currently working as software enginner 
 
 - 📫 How to reach me: danydifilippo@gmail.com
